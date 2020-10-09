@@ -17,5 +17,4 @@
 
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
-# 试试actions有没有触发
-现在应该没有问题了吧
+# 测试cookie是否获取成功
